@@ -1794,9 +1794,9 @@ Respuesta desde 192.168.1.2: bytes=1200 tiempo=2ms TTL=128
 Respuesta desde 192.168.1.2: bytes=1200 tiempo=2ms TTL=128
 Respuesta desde 192.168.1.2: bytes=1200 tiempo=2ms TTL=128
 
-Estad¡sticas de ping para 192.168.1.2:
+EstadÂ¡sticas de ping para 192.168.1.2:
     Paquetes: enviados = 1793, recibidos = 1793, perdidos = 0
     (0% perdidos),
 Tiempos aproximados de ida y vuelta en milisegundos:
-    M¡nimo = 1ms, M ximo = 20ms, Media = 2ms
+    MÂ¡nimo = 1ms, MÂ ximo = 20ms, Media = 2ms
 Control-C
