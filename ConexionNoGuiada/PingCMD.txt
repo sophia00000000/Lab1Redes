@@ -1105,9 +1105,9 @@ Respuesta desde 192.168.0.1: Host de destino inaccesible.
 Respuesta desde 192.168.0.1: Host de destino inaccesible.
 Respuesta desde 192.168.0.1: Host de destino inaccesible.
 
-Estad¡sticas de ping para 192.168.0.2:
+EstadÂ¡sticas de ping para 192.168.0.2:
     Paquetes: enviados = 1104, recibidos = 984, perdidos = 120
     (10% perdidos),
 Tiempos aproximados de ida y vuelta en milisegundos:
-    M¡nimo = 1ms, M ximo = 312ms, Media = 68ms
+    MÂ¡nimo = 1ms, MÂ ximo = 312ms, Media = 68ms
 Control-C
